@@ -30,24 +30,7 @@ Mergulhe em uma aventura épica, onde cada canto do mundo esconde segredos e des
 
 ---
 
-## 📥 Instalação do Modpack
-
-### Opções de Instalação
-
-Você pode instalar o modpack de três formas diferentes:
-
-1. **Instalação Automática:**
-   - Utilize o instalador `.py` (Python) ou o `.bat` (Windows) para copiar automaticamente os arquivos para a pasta `.minecraft`.
-
-2. **Instalação Manual:**
-   - Copie e cole os arquivos do modpack na pasta `.minecraft` do seu computador.
-
-3. **Escolha sua própria pasta:**
-   - Se preferir, copie os arquivos para qualquer outra pasta e ajuste as configurações do Minecraft para rodar o modpack a partir dela.
-
----
-
-### 🛠 Passo a Passo da Instalação Manual
+### 🛠 Passo a Passo da Instalação
 
 1. **Arquivos necessários**:
    - Pastas: `config`, `mods`, `resourcepacks`, `shaderpacks`
