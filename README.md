@@ -30,7 +30,7 @@ Mergulhe em uma aventura épica, onde cada canto do mundo esconde segredos e des
 
 ---
 
-### 🛠 Passo a Passo da Instalação
+### 🛠 Passo a Passo de Instalação
 
 1. **Arquivos necessários**:
    - Pastas: `config`, `mods`, `resourcepacks`, `shaderpacks`
