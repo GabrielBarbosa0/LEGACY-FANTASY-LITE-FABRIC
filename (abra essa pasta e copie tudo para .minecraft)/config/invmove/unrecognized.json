@@ -1,0 +1,35 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.moulberry.axiom.screen.EditMarkerScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.levelz.screen.LevelScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.levelz.screen.SkillRestrictionScreen": true,
+    "net.levelz.screen.SkillInfoScreen": true,
+    "net.partyaddon.screen.PartyScreen": true,
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "net.minecraft.class_433": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true,
+    "net.minecraft.class_4895": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
+    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "net.minecraft.class_7744": true,
+    "net.jobsaddon.screen.JobScreen": true,
+    "net.rewardz.screen.RewardsScreen": true,
+    "com.tom.storagemod.screen.CraftingTerminalScreen": true
+  },
+  "hideBackground": {
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.moulberry.axiom.screen.EditMarkerScreen": true,
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
+    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
+  }
+}
